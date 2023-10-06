@@ -4,7 +4,7 @@ import SelectionPage from "../SelectionPage/SelectionPage";
 
 const TaskPage = () => {
     return (
-        <div>
+        <div className={styles.task}>
             <h1>Страница с задачами</h1>
         </div>
     );
